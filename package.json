@@ -1,9 +1,10 @@
 {
-  "name": "mike-486",
+  "name": "solid-fishstick-snowcats",
   "version": "1.0.0",
-  "description": "MIKE lab for CIS-486 | hello from express, local",
+  "description": "Slade November",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
